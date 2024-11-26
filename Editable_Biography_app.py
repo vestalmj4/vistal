@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the Biography page
-st.title("Biography of John Luis Hernandez")
+st.title("Biography of Marjon P. Vistal")
 
 # Add a circular image (using custom HTML and CSS)
 st.markdown("""
