@@ -8,8 +8,8 @@ st.markdown("""
     <style>
         .circle-img {
             border-radius: 25%;  /* Changed to 50% for a perfect circle */
-            width: 300px;  /* You can adjust the size here */
-            height: 300px;  /* Make sure it's square to maintain the circular shape */
+            width: 250px;  /* You can adjust the size here */
+            height: 250px;  /* Make sure it's square to maintain the circular shape */
             object-fit: cover;  /* Ensures the image fits well inside the circle */
         }
     </style>
