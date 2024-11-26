@@ -19,13 +19,13 @@ st.markdown("""
 # Add some text and subheadings
 st.header("About Me")
 st.write("""
-Hello! My name is **John Luis J. Hernandez**, and I am 18 years old. I live in Brgy. Hayanggabon, Claver, Surigao Del Norte. I love dancing, going on nature trips, and playing online games.
+Hello! My name is **Marjon P.Vistal I live in brgy, Hayanggabon, claver, Surigao Del Norte, I love playing basketball 
 """)
 
 # Early Life
 st.header("Early Life")
 st.write("""
-I was born in Fairview, Quezon City, and raised in Brgy. Hayanggabon, Claver, Surigao Del Norte, a small town where I developed a passion for dancing and playing online games from an early age. My interest in these activities started when I was 12 years old. By the time I turned 14, I started exploring nature trips, as I felt that dancing and gaming were becoming repetitive. Nature trips offered a refreshing change and allowed me to enjoy the outdoors.
+I was born in Taligaman, Butuan City, and raised in Brgy. Hayanggabon, Claver, Surigao Del Norte, a small town where I developed my skills to play baketball and I really love this sport, somtimes i'm watching anime to relax.
 """)
 
 # Education
@@ -42,8 +42,7 @@ After graduating from high school, I enrolled at Surigao del Norte State Univers
 
 # Hobbies and Interests
 st.header("Hobbies and Interests")
-st.write("""
-When I'm not dancing or playing online games, I enjoy **watching movies**, going on **nature trips**, and **traveling**. Spending quality time with my family is also something I cherish deeply.
+st.write(" when i'm not playing basketball, im waching anime and hanging out with my friends. .
 """)
 
 # Contact Information
@@ -51,11 +50,11 @@ st.header("Contact Information")
 st.write("You can reach me at:")
 
 # Display contact number
-st.write("📞 **Contact Number**: +63 912 345 6789")  # Replace with your actual contact number
+st.write("📞 **Contact Number**: +63 912 557 1086")  # Replace with your actual contact number
 
 # Display Gmail contact link
-st.write("📧 **Email**: [johnluis.hernandez@gmail.com](mailto:johnluis.hernandez@gmail.com)")  # Replace with your Gmail
+st.write("📧 **Email**: [vestalmj4@gmail.com](mailto:vestalmj4gmail.com)")  # Replace with your Gmail
 
 # Footer
 st.markdown("---")
-st.write("© 2024 John Luis J. Hernandez | All rights reserved")
+st.write("© 2024 Marjon P. vistal | All rights reserved")
