@@ -13,7 +13,7 @@ st.markdown("""
             object-fit: cover;  /* Ensures the image fits well inside the circle */
         }
     </style>
-    <img src="https://scontent.fcgy2-2.fna.fbcdn.net/v/t1.15752-9/462575641_1661064754823752_7180113722861028547_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFNHJIDxdEskvLeDPzup0uu7vCZ-A4nWT3u8Jn4DidZPbRER4lRkHQ2XfAjFpG8JnJViL0VsiXnfk4j4SL22RqF&_nc_ohc=lqAIIcgXP1EQ7kNvgEeRNpv&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&oh=03_Q7cD1QGP2t4EaJDF3IwARKETwjHVT7zjnipJlRQkrMMqb9m0hA&oe=676CF5E9.jpg" class="circle-img">
+    <img src="https://scontent.fcgy2-2.fna.fbcdn.net/v/t1.15752-9/462575641_1661064754823752_7180113722861028547_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFNHJIDxdEskvLeDPzup0uu7vCZ-A4nWT3u8Jn4DidZPbRER4lRkHQ2XfAjFpG8JnJViL0VsiXnfk4j4SL22RqF&_nc_ohc=lqAIIcgXP1EQ7kNvgEeRNpv&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&oh=03_Q7cD1QGP2t4EaJDF3IwARKETwjHVT7zjnipJlRQkrMMqb9m0hA&oe=676CF5E9" class="circle-img">
 """, unsafe_allow_html=True)  # Replace with your image path or URL
 
 # Add some text and subheadings
