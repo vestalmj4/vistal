@@ -19,7 +19,7 @@ st.markdown("""
 # Add some text and subheadings
 st.header("About Me")
 st.write("""
-Hello! My name is **Marjon P.Vistal I live in brgy, Hayanggabon, claver, Surigao Del Norte, I love playing basketball 
+Hello! My name is **Marjon P.Vistal I'm 20 years old I live in brgy, Hayanggabon Claver, Surigao Del Norte, I love playing basketball 
 """)
 
 # Early Life
