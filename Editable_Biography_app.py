@@ -7,7 +7,7 @@ st.title("Biography of Marjon P. Vistal")
 st.markdown("""
     <style>
         .circle-img {
-            border-radius: 50%;
+            border-radius: 25%;
             width: 200px;  /* You can adjust the size here */
             height: 200px;  /* Make sure it's square to maintain the circular shape */
             object-fit: cover;  /* Ensures the image fits well inside the circle */
