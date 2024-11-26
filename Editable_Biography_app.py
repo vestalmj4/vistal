@@ -7,7 +7,7 @@ st.title("Biography of Marjon P. Vistal")
 st.markdown("""
     <style>
         .circle-img {
-            border-radius: 25%;
+            border-radius: 50%;  /* Changed to 50% for a perfect circle */
             width: 300px;  /* You can adjust the size here */
             height: 300px;  /* Make sure it's square to maintain the circular shape */
             object-fit: cover;  /* Ensures the image fits well inside the circle */
@@ -19,13 +19,13 @@ st.markdown("""
 # Add some text and subheadings
 st.header("About Me")
 st.write("""
-Hello! My name is **Marjon P.Vistal I'm 20 years old I live in brgy, Hayanggabon Claver, Surigao Del Norte, I love playing basketball 
+Hello! My name is **Marjon P. Vistal**, I'm 20 years old, and I live in Brgy. Hayanggabon, Claver, Surigao Del Norte. I love playing basketball.
 """)
 
 # Early Life
 st.header("Early Life")
 st.write("""
-I was born in Taligaman, Butuan City, and raised in Brgy. Hayanggabon, Claver, Surigao Del Norte, a small town where I developed my skills to play baketball and I really love this sport, somtimes i'm watching anime to relax.
+I was born in Taligaman, Butuan City, and raised in Brgy. Hayanggabon, Claver, Surigao Del Norte, a small town where I developed my skills to play basketball. I really love this sport, and sometimes I watch anime to relax.
 """)
 
 # Education
@@ -42,7 +42,8 @@ After graduating from high school, I enrolled at Surigao del Norte State Univers
 
 # Hobbies and Interests
 st.header("Hobbies and Interests")
-st.write(" when i'm not playing basketball, im waching anime and sleeping.
+st.write("""
+When I'm not playing basketball, I enjoy watching anime and taking naps.
 """)
 
 # Contact Information
@@ -53,8 +54,8 @@ st.write("You can reach me at:")
 st.write("📞 **Contact Number**: +63 912 557 1086")  # Replace with your actual contact number
 
 # Display Gmail contact link
-st.write("📧 **Email**: [vestalmj4@gmail.com](mailto:vestalmj4gmail.com)")  # Replace with your Gmail
+st.write("📧 **Email**: [vestalmj4@gmail.com](mailto:vestalmj4@gmail.com)")  # Fixed the email typo
 
 # Footer
 st.markdown("---")
-st.write("© 2024 Marjon P. vistal | All rights reserved")
+st.write("© 2024 Marjon P. Vistal | All rights reserved")
