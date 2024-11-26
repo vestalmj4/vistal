@@ -42,7 +42,7 @@ After graduating from high school, I enrolled at Surigao del Norte State Univers
 
 # Hobbies and Interests
 st.header("Hobbies and Interests")
-st.write(" when i'm not playing basketball, im waching anime and hanging out with my friends. .
+st.write(" when i'm not playing basketball, im waching anime and sleeping.
 """)
 
 # Contact Information
